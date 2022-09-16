@@ -1,4 +1,4 @@
-# Easy_Python_Challenges
+# Python_Challenges
 
 Some python questions and solutions 
 
