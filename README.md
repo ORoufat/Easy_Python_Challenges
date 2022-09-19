@@ -14,7 +14,7 @@ Q5 - Fizz_Buzz
 
 Q6 - CAPITAL INDEXES
 
-WRITE A FUNCTION NAMED CAPITAL_INDEXES. tHE FUNCTION TAKES A SINGLE PARAMETER WHICH IS A STRING.
-YOUR FUNCTION SHOULD RETURN A LIST OF ALL THE INDEXES IN THE STRING THAT HAVE CAPITAL LETTERS.
-FOREXAMPLE:: CAPITAL_INDEXES("HeLlO") SHOULD RETURN THE LIST [0,2,4]
+Write a function named capital_indexes. The function takes a single parameter which is a string.
+Your function should return a list of all the indexes in the string tht have capital letters.
+FOR EXAMPLE:: capital_indexes("HeLlO") should return the list [0,2,4]
 
