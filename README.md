@@ -11,3 +11,10 @@ Howmany years does the town need to see its populatıon greater or equal to po=1
 Q3 - Write a code that prints the elements reverse. Example: apple ==> elppa
 
 Q5 - Fizz_Buzz
+
+Q6 - CAPITAL INDEXES
+
+WRITE A FUNCTION NAMED CAPITAL_INDEXES. tHE FUNCTION TAKES A SINGLE PARAMETER WHICH IS A STRING.
+YOUR FUNCTION SHOULD RETURN A LIST OF ALL THE INDEXES IN THE STRING THAT HAVE CAPITAL LETTERS.
+FOREXAMPLE:: CAPITAL_INDEXES("HeLlO") SHOULD RETURN THE LIST [0,2,4]
+
