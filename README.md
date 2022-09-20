@@ -18,3 +18,7 @@ Write a function named capital_indexes. The function takes a single parameter wh
 Your function should return a list of all the indexes in the string tht have capital letters.
 FOR EXAMPLE:: capital_indexes("HeLlO") should return the list [0,2,4]
 
+Q7- Middle Letter
+Write a function named mid that takes a string as its parameter. Your function should extract and return the middle letter.
+if there is no middle letter, your function should return the empty string.
+ex: mid("abc") should return "b" while mid("aaaa") returns " " 
