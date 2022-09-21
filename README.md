@@ -22,3 +22,7 @@ Q7- Middle Letter
 Write a function named mid that takes a string as its parameter. Your function should extract and return the middle letter.
 if there is no middle letter, your function should return the empty string.
 ex: mid("abc") should return "b" while mid("aaaa") returns " " 
+
+Q8-(Online_Status)  Write a function named online_count that takes one parameter.
+The parameter is a dictionary that maps from strings of names to the string "ONLINE" OR "OFFLINE" 
+Your function should return the number of people who are online 
