@@ -26,3 +26,9 @@ ex: mid("abc") should return "b" while mid("aaaa") returns " "
 Q8-(Online_Status)  Write a function named online_count that takes one parameter.
 The parameter is a dictionary that maps from strings of names to the string "ONLINE" OR "OFFLINE" 
 Your function should return the number of people who are online 
+
+Q9 - (Randomness)
+
+Define a function random_number that takes no parameters. The function must generate a random integer between 1 and 100
+both inclusive and return it.
+Calling the function multiple times should usually return different numbers
