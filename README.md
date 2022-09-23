@@ -32,3 +32,9 @@ Q9 - (Randomness)
 Define a function random_number that takes no parameters. The function must generate a random integer between 1 and 100
 both inclusive and return it.
 Calling the function multiple times should usually return different numbers
+
+Q10 - (Typecheck)
+
+Write a function named only_ints that takes two parameters. Your function should return TRUE if both parameters are integers and FALSE otherwise 
+Exammple:Calling only_ints(1,2) should return TRUE while ("A",1) should return FALSE
+
