@@ -38,3 +38,6 @@ Q10 - (Typecheck)
 Write a function named only_ints that takes two parameters. Your function should return TRUE if both parameters are integers and FALSE otherwise 
 Exammple:Calling only_ints(1,2) should return TRUE while ("A",1) should return FALSE
 
+Q11 - (Double Letters)
+
+Define a fubction named DOUBLE_LETTERS that takes a single parameter. The parameter is a string. Your function must returnn TRUE if there are two identical letters in a row in the string and FALSE otherwise.
