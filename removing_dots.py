@@ -1,7 +1,7 @@
 # SOLUTION_1
 
 def add_dots(string):
-    new_string = ".", join(string)
+    new_string = ".".join(string)
     return new_string
 
 
