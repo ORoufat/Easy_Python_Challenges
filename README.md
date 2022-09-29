@@ -12,7 +12,7 @@ Q3 - Reverse Print. Write a code that prints the elements reverse. Example: appl
 
 Q5 - Fizz_Buzz
 
-Q6 - CAPITAL INDEXES
+Q6 - Capital Indexes
 
 Write a function named capital_indexes. The function takes a single parameter which is a string.
 Your function should return a list of all the indexes in the string tht have capital letters.
@@ -41,3 +41,8 @@ Exammple:Calling only_ints(1,2) should return TRUE while ("A",1) should return F
 Q11 - (Double Letters)
 
 Define a fubction named DOUBLE_LETTERS that takes a single parameter. The parameter is a string. Your function must returnn TRUE if there are two identical letters in a row in the string and FALSE otherwise.
+
+Q12- Adding Removing Dots
+
+Write a function named ADD_DOTS that takes a string and adds "." in between each letter.
+For example calling ADD_DOTS('TEST') should return the string T.E.S.T
