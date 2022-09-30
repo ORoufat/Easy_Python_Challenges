@@ -46,3 +46,10 @@ Q12- Adding Removing Dots
 
 Write a function named ADD_DOTS that takes a string and adds "." in between each letter.
 For example calling ADD_DOTS('TEST') should return the string T.E.S.T
+
+Q13 - Counting Syllables
+
+Define a function named COUNT that takes a single parameter. The parameter is a string. The string will contain a single word divided into syllables by hyphens such as these: "HO-TEL", "CAT", "MET-A-PHOR", "TER-MIN-A-TOR"
+
+Your function should count the number of syllables and return it.
+FOR EX: The call COUNT("HO-TEL") should return 2 
