@@ -53,3 +53,10 @@ Define a function named COUNT that takes a single parameter. The parameter is a 
 
 Your function should count the number of syllables and return it.
 FOR EX: The call COUNT("HO-TEL") should return 2 
+
+Q14 - Anagrams
+
+Two strings are anagrams if you ca make one from the other by rearranging the letters 
+
+write a function named is_anagram that takes 2 strings as its parameters. Your function should return True if the strings are anagrams and False otherwise
+For example: the call is_anagram("typhoon", "opython") should return true while the call is_anagram ("Alice", "Bob") should return False
