@@ -60,3 +60,11 @@ Two strings are anagrams if you ca make one from the other by rearranging the le
 
 write a function named is_anagram that takes 2 strings as its parameters. Your function should return True if the strings are anagrams and False otherwise
 For example: the call is_anagram("typhoon", "opython") should return true while the call is_anagram ("Alice", "Bob") should return False
+
+Q15 - FLATTEN A LIST
+
+Write a function that takes a list of lists and flattens it into one-dimensional list
+Name your function Flatten. it should take a single parameter and return a list
+
+For example: calling flatten([[1,2] [3,4]]) should return thel ist [1,2,3,4]
+
